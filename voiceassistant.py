@@ -2,8 +2,6 @@
 import wave, pyaudio, requests, time, os, asyncio, json
 import streamlit as st
 from datetime import datetime
-from gtts import gTTS
-from playsound import playsound
 from deep_translator import GoogleTranslator
 from crewai import Agent, Task, Crew, Process, LLM
 from dotenv import load_dotenv

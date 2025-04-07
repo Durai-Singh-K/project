@@ -1,8 +1,6 @@
 streamlit
 pyaudio
 wave
-gTTS
-playsound
 deep-translator
 crewai
 python-dotenv
