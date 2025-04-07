@@ -1,0 +1,11 @@
+streamlit
+pyaudio
+wave
+gTTS
+playsound
+deep-translator
+crewai
+python-dotenv
+azure-storage-file-datalake
+azure-eventhub
+openai
