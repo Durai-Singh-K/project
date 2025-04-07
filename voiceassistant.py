@@ -12,6 +12,7 @@ from azure.eventhub import EventHubProducerClient, EventData
 
 
 # --- Load Environment Variables ---
+print("starting works")
 load_dotenv()
 AZURE_STORAGE_ACCOUNT_NAME = os.getenv("AZURE_STORAGE_ACCOUNT_NAME")
 AZURE_STORAGE_ACCOUNT_KEY = os.getenv("AZURE_STORAGE_ACCOUNT_KEY")
